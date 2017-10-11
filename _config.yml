@@ -1,10 +1,10 @@
 # Site settings
-title: BY Xinyu
-SEOTitle: 鑫宇的博客 | BY Xinyu
+title: Xinyu
+SEOTitle: 鑫宇的博客 | Xinyu
 header-img: img/home-bg-stars.jpg
 email: jiaowoliangzai@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Xinyu, 鑫宇的博客, huxinyu, 胡鑫宇, java, web, ssm"
+keyword: "Xinyu, 鑫宇的博客, huxinyu, 胡鑫宇, java, web, ssm"
 url: "http://Hu-Xinyu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Hu-Xinyu/Hu-Xinyu.github.io.git" # you code repository
@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     胡鑫宇
+zhihu_username:     hu-xin-yu-55-82
 github_username:    Hu-Xinyu
 #facebook_username:  baiying.qiu.7
 jianshu_username:    a2dc43f64094
