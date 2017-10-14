@@ -1,28 +1,28 @@
 # Site settings
 title: Xinyu
-SEOTitle: 鑫宇的博客 | Xinyu
+SEOTitle: 马宏岩的博客 | HongYan
 header-img: img/home-bg-stars.jpg
-email: jiaowoliangzai@gmail.com
-description: "Smile is not revealing publicity."
-keyword: "Xinyu, 鑫宇的博客, huxinyu, 胡鑫宇, java, web, ssm"
-url: "http://Hu-Xinyu.github.io"          # your host, for absolute URL
+email: 452820359@qq.com
+description: "生活不止眼前的苟且"
+keyword: "mahognyan,宏岩的博客, hongyan, 马宏岩, java, android"
+url: "http://hongyanma.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Hu-Xinyu/Hu-Xinyu.github.io.git" # you code repository
+github_repo: "https://github.com/hongyanma/hongyanma.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Smile is not revealing publicity."
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "生活不止眼前的苟且,还有诗和远方"
+sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     hu-xin-yu-55-82
-github_username:    Hu-Xinyu
+#zhihu_username:     hu-xin-yu-55-82
+github_username:    hongyanma
 #facebook_username:  baiying.qiu.7
-jianshu_username:    a2dc43f64094
+#jianshu_username:    a2dc43f64094
 #twitter_username:   qiubaiying
 
 
@@ -94,7 +94,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "CSDN博客",
+        href: "http://blog.csdn.net/mhy960314"
     }
 ]
