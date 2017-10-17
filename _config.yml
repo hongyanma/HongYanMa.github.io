@@ -1,7 +1,7 @@
 # Site settings
 title: MaHongYan
 SEOTitle: 马宏岩的博客 | HongYan
-header-img: img/home-bg-stars.jpg
+header-img: img/main.jpg
 email: 452820359@qq.com
 description: "生活不止眼前的苟且"
 keyword: "mahognyan,宏岩的博客, hongyan, 马宏岩, java, android"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/hongyanma/hongyanma.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "生活不止眼前的苟且,还有诗和远方"
+sidebar-about-description: "生活不只是苟且,还有诗和远方。人生若只如初见，那么似水流年会不会繁华一些？"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
