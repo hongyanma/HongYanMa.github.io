@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
+    "name": "马宏岩",
+    "title": "冰冻三尺,非一日之寒",
     "author": "BY <jiaowoliangzai@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://Hu-Xinyu.github.io",
+    "homepage": "http://hongyanma.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Hu-Xinyu/Hu-Xinyu.github.io"
+        "url": "https://github.com/hongyanma/hongyanma.github.io"
     },
-    "bugs": "https://github.com/Hu-Xinyu/Hu-Xinyu.github.io/issues",
+    "bugs": "https://github.com/hongyanma/hongyanma.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
